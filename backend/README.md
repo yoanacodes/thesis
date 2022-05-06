@@ -9,7 +9,7 @@
 <br>
 <br>
 #### Project Links:
-**Live Project**: [Is Foor Making You Sick?](https://yoanacodes.github.io/projects/thesis/) <br>
+**Live Project**: [Is Foor Making You Sick?](https://thesis.yoanacodes.com/) <br>
 **Portfolio link with description**: [Is Foor Making You Sick?](https://yoanacodes.com/#/projects/thesis) 
 
 #### About:
