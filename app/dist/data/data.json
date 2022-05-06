@@ -1,0 +1,92 @@
+[
+	{
+        "animal": "Bunny",
+        "name": "Tudor",
+        "x": 10,
+        "y": 9
+    },
+	{
+        "animal": "Bunny",
+        "name": "Emo",
+        "x": 0,
+        "y": 7
+    },
+	{
+        "animal": "Bunny",
+        "name": "Stefi",
+        "x": 12,
+        "y": 2
+    },
+	{
+        "animal": "Bunny",
+        "name": "Queen Blanco",
+        "x": 8,
+        "y": 10
+    },
+	{
+        "animal": "Bunny",
+        "name": "Dolly",
+        "x": 6,
+        "y": 5
+    },
+	{
+        "animal": "Dog",
+        "name": "Taburetcho",
+        "x": 6,
+        "y": 0
+    },
+	{
+        "animal": "Dog",
+        "name": "Falco",
+        "x": 3,
+        "y": 15
+    },
+	{
+        "animal": "Dog",
+        "name": "Fiut",
+        "x": 0,
+        "y": 2
+    },
+	{
+        "animal": "Dog",
+        "name": "Roshlio",
+        "x": 8,
+        "y": 0
+    },
+	{
+        "animal": "Dog",
+        "name": "Pepito",
+        "x": 16,
+        "y": 5
+    },
+	{
+        "animal": "Kitten",
+        "name": "Snow",
+        "x": 2,
+        "y": 9
+    },
+	{
+        "animal": "Kitten",
+        "name": "Maurice",
+        "x": 8,
+        "y": 1
+    },
+	{
+        "animal": "Kitten",
+        "name": "Kitty",
+        "x": 13,
+        "y": 5
+    },
+	{
+        "animal": "Kitten",
+        "name": "Catty",
+        "x": 10,
+        "y": 7
+    },
+	{
+        "animal": "Kitten",
+        "name": "Pepita",
+        "x": 3,
+        "y": 9
+    }
+]

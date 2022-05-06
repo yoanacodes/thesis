@@ -1,0 +1,189 @@
+country,iso3,region,sub_region,population_2020,year,parent_location,obesity_low,obesity,obesity_high,overweight_low,overweight,overweight_high,underweight_low,underweight,underweight_high
+Afghanistan,AFG,Asia,Southern Asia,38928341,2016,Eastern Mediterranean,2.8,4.5,6.7,15.8,19.7,24,10.3,16.4,23.2
+Angola,AGO,Africa,Sub-Saharan Africa,32866268,2016,Africa,4.2,6.8,10.3,19,23.9,29.2,7.7,13.7,21
+Albania,ALB,Europe,Southern Europe,2837743,2016,Europe,17.4,22.3,27.4,53.8,58.7,63.5,0.6,1.3,2.6
+Andorra,AND,Europe,Southern Europe,77265,2016,Europe,22,28,34,63.1,68.1,72.7,0.3,0.8,1.9
+United Arab Emirates,ARE,Asia,Western Asia,9890400,2016,Eastern Mediterranean,24,29.9,36,60.7,65.9,71,0.9,1.7,3
+Argentina,ARG,Americas,Latin America and the Caribbean,45376763,2016,Americas,23.7,28.5,33.7,58.8,63.4,67.8,0.4,0.9,1.5
+Armenia,ARM,Asia,Western Asia,2963234,2016,Europe,16.3,20.9,25.7,50.6,55.7,60.5,1.4,2.6,4.4
+Antigua and Barbuda,ATG,Americas,Latin America and the Caribbean,97928,2016,Americas,13.9,19.1,24.8,42.5,48.4,54.5,2.2,4.7,8.5
+Australia,AUS,Oceania,Australia and New Zealand,25687041,2016,Western Pacific,26.5,30.4,34.4,63.6,67.2,70.6,0.6,1.1,1.7
+Austria,AUT,Europe,Western Europe,8917205,2016,Europe,17.5,21.9,26.8,53.3,58.1,62.5,0.8,1.6,3
+Azerbaijan,AZE,Asia,Western Asia,10093121,2016,Europe,15.3,19.9,24.9,48.1,53.5,58.7,1.1,2.3,4.2
+Burundi,BDI,Africa,Sub-Saharan Africa,11890781,2016,Africa,2.8,4.4,6.6,15.6,19.3,23.3,7.8,12.9,18.9
+Belgium,BEL,Europe,Western Europe,11555997,2016,Europe,20.7,24.5,28.5,60.1,64.1,67.9,0.5,0.9,1.5
+Benin,BEN,Africa,Sub-Saharan Africa,12123198,2016,Africa,6,8.2,10.8,22.4,26.3,30.4,6.5,9.9,14.2
+Burkina Faso,BFA,Africa,Sub-Saharan Africa,20903278,2016,Africa,3.1,4.5,6.3,16.5,20,23.7,8.3,12,16.5
+Bangladesh,BGD,Asia,Southern Asia,164689383,2016,South-East Asia,2.2,3.4,4.7,15.7,19,22.7,16.4,21,26
+Bulgaria,BGR,Europe,Eastern Europe,6934015,2016,Europe,21.8,27.4,33.3,61.3,66.3,71,0.3,0.9,2
+Bahrain,BHR,Asia,Western Asia,1701583,2016,Eastern Mediterranean,23.5,28.7,34.2,59.3,64.4,69.3,1.6,2.9,4.8
+The Bahamas,BHS,Americas,Latin America and the Caribbean,393248,2016,Americas,26.1,32.1,38.5,60,65.2,70.2,1,2.4,4.6
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,3280815,2016,Europe,15.1,19.4,24.1,51.3,56.4,61.2,0.7,1.4,2.4
+Belarus,BLR,Europe,Eastern Europe,9379952,2016,Europe,21.2,26.6,32.4,57.8,62.9,68,0.5,1.3,2.7
+Belize,BLZ,Americas,Latin America and the Caribbean,397621,2016,Americas,17.5,22.4,27.9,46.3,51.8,57.2,1.9,3.6,6
+Bolivia,BOL,Americas,Latin America and the Caribbean,11673029,2016,Americas,14.2,18.7,23.7,47.9,53.2,58.6,0.8,1.7,3.1
+Brazil,BRA,Americas,Latin America and the Caribbean,212559409,2016,Americas,18.9,22.3,25.9,52.6,56.9,61,1.8,2.7,3.8
+Barbados,BRB,Americas,Latin America and the Caribbean,287371,2016,Americas,19.8,24.8,30.2,49.7,55.3,61,1.6,3.1,5
+Brunei,BRN,Asia,South-eastern Asia,437483,2016,Western Pacific,11,14.7,18.9,37.1,42.2,47.5,3.3,5.8,9
+Bhutan,BTN,Asia,Southern Asia,771612,2016,South-East Asia,3.8,5.8,8.2,21.1,25.4,30.2,6.6,10.8,15.8
+Botswana,BWA,Africa,Sub-Saharan Africa,2351625,2016,Africa,12.3,16.1,20.3,33.4,38.4,43.3,6.1,9.7,14.2
+Central African Republic,CAF,Africa,Sub-Saharan Africa,4829764,2016,Africa,4,6.3,9.3,18.6,23.2,28.3,9.3,14.9,21.4
+Canada,CAN,Americas,Northern America,38005238,2016,Americas,27.4,31.3,35.3,64,67.5,71,0.6,1.1,1.7
+Switzerland,CHE,Europe,Western Europe,8636896,2016,Europe,17.3,21.2,25.3,53.5,57.9,61.9,1,1.9,3.4
+Chile,CHL,Americas,Latin America and the Caribbean,19116209,2016,Americas,24.2,28.8,33.7,59.7,64.4,68.8,0.3,0.7,1.2
+China,CHN,Asia,Eastern Asia,1410929362,2016,Western Pacific,5.1,6.6,8.4,30.1,33.8,37.8,3.6,4.9,6.5
+Cote d'Ivoire,CIV,Africa,Sub-Saharan Africa,26378275,2016,Africa,6.7,9,11.9,24.5,28.7,33.2,5.1,8.3,12.2
+Cameroon,CMR,Africa,Sub-Saharan Africa,26545864,2016,Africa,7.1,9.5,12.2,25.6,29.7,34,4.7,7.3,10.5
+Democratic Republic of the Congo,COD,Africa,Sub-Saharan Africa,89561404,2016,Africa,3.7,5.6,8,17.8,22.1,26.9,10.3,16,22.3
+Congo,COG,Africa,Sub-Saharan Africa,5518092,2016,Africa,5.8,8.4,11.5,23.1,28.1,33.1,8.4,13.2,18.8
+Colombia,COL,Americas,Latin America and the Caribbean,50882884,2016,Americas,18.3,22.1,26.2,54.5,58.6,62.9,1.4,2.3,3.5
+Comoros,COM,Africa,Sub-Saharan Africa,869595,2016,Africa,4.7,6.9,9.6,20.6,24.8,29.1,6.4,10.3,15.2
+Cape Verde,CPV,Africa,Sub-Saharan Africa,555988,2016,Africa,7.5,10.6,14,27.4,32.1,37.1,4.6,8.2,13
+Costa Rica,CRI,Americas,Latin America and the Caribbean,5094114,2016,Americas,21.2,25.7,30.6,57,61.5,65.8,1,1.8,3
+Cuba,CUB,Americas,Latin America and the Caribbean,11326616,2016,Americas,21.9,26.7,31.7,57,62.2,66.9,2.4,4.1,6.4
+Cyprus,CYP,Asia,Western Asia,1207361,2016,Europe,17.4,22.6,28.3,56,60.8,65.7,0.4,1.1,2.2
+Czech Republic,CZE,Europe,Eastern Europe,10698896,2016,Europe,23.5,28.5,33.9,62,66.7,71.1,0.3,0.8,1.5
+Germany,DEU,Europe,Western Europe,83240525,2016,Europe,21.9,25.7,29.8,58.7,62.8,66.7,0.5,0.8,1.3
+Djibouti,DJI,Africa,Sub-Saharan Africa,988002,2016,Eastern Mediterranean,8.6,12.2,16.7,30,35.7,41.3,4.3,8.3,13.8
+Dominica,DMA,Americas,Latin America and the Caribbean,71991,2016,Americas,22.6,28.2,33.9,55.6,60.7,65.9,1.4,2.9,5.2
+Denmark,DNK,Europe,Northern Europe,5831404,2016,Europe,17.5,21.3,25.3,54.9,59.2,63.3,0.9,1.7,2.9
+Dominican Republic,DOM,Americas,Latin America and the Caribbean,10847904,2016,Americas,22,26.9,32.2,55,59.9,64.6,1.8,3.3,5.4
+Algeria,DZA,Africa,Northern Africa,43851043,2016,Africa,21.7,26.6,32,56,60.7,65.4,2,3.6,5.9
+Ecuador,ECU,Americas,Latin America and the Caribbean,17643060,2016,Americas,14.9,19.3,24.3,49.5,54.9,60.2,0.6,1.3,2.4
+Egypt,EGY,Africa,Northern Africa,102334403,2016,Eastern Mediterranean,26.7,31.1,35.5,57.6,61.9,66.2,0.9,1.5,2.4
+Eritrea,ERI,Africa,Sub-Saharan Africa,3546427,2016,Africa,2.6,4.1,6,15.5,19.2,23,12.1,17.1,22.7
+Spain,ESP,Europe,Southern Europe,47351567,2016,Europe,23.2,27.1,31.1,63.2,67.2,71.1,0.4,0.6,1
+Estonia,EST,Europe,Northern Europe,1331057,2016,Europe,19.8,23.8,28.1,55.8,60.4,64.9,0.7,1.2,1.9
+Ethiopia,ETH,Africa,Sub-Saharan Africa,114963583,2016,Africa,2.3,3.6,5.2,14.6,18.1,21.8,11,16,21.7
+Finland,FIN,Europe,Northern Europe,5530719,2016,Europe,21.2,24.9,28.7,58.7,62.5,66.3,0.4,0.8,1.2
+Fiji,FJI,Oceania,Melanesia,896444,2016,Western Pacific,24.4,30,35.9,57.9,63.4,68.8,1,1.9,3.2
+France,FRA,Europe,Western Europe,67391582,2016,Europe,18.8,23.2,27.8,58.4,62.9,67.2,0.8,1.6,2.8
+Federated States of Micronesia,FSM,Oceania,Micronesia,115021,2016,Western Pacific,35.5,41.6,47.6,65.3,70.1,74.6,0.6,1.2,2.1
+Gabon,GAB,Africa,Sub-Saharan Africa,2225728,2016,Africa,9.5,13.4,18.1,30.7,36.9,43.2,5.2,9.3,14.7
+United Kingdom,GBR,Europe,Northern Europe,67215293,2016,Europe,26.6,29.5,32.5,64.3,67.2,70,0.7,1,1.4
+Georgia,GEO,Asia,Western Asia,3714000,2016,Europe,18.4,23.3,28.5,52.1,57.2,62.2,1.2,2.4,4.2
+Ghana,GHA,Africa,Sub-Saharan Africa,31072945,2016,Africa,7.5,9.7,12.2,25.5,29.3,33.2,6.2,8.9,12.1
+Guinea,GIN,Africa,Sub-Saharan Africa,13132792,2016,Africa,4.6,6.6,8.9,20,23.8,28,7,11.1,15.9
+The Gambia,GMB,Africa,Sub-Saharan Africa,2416664,2016,Africa,6.3,8.7,11.6,23.7,27.9,32.4,6.7,10.4,14.9
+Guinea-Bissau,GNB,Africa,Sub-Saharan Africa,1967998,2016,Africa,5.7,8.2,11.3,22.6,26.9,31.5,5.7,9.9,15.3
+Equatorial Guinea,GNQ,Africa,Sub-Saharan Africa,1402985,2016,Africa,4.6,7.4,10.8,19.8,25.1,30.6,7.3,13.3,20.9
+Greece,GRC,Europe,Southern Europe,10715549,2016,Europe,22.5,27.4,32.7,62.5,67.1,71.4,0.2,0.5,1.1
+Grenada,GRD,Americas,Latin America and the Caribbean,112519,2016,Americas,15.4,20.2,25.5,43.9,49.4,55.1,2.1,4.1,7
+Guatemala,GTM,Americas,Latin America and the Caribbean,16858333,2016,Americas,14.9,18.8,23.2,46.6,51.4,56.1,1.2,2.2,3.7
+Guyana,GUY,Americas,Latin America and the Caribbean,786559,2016,Americas,14.5,19.2,24.4,41.9,47.5,53.4,2.6,5,8.5
+Honduras,HND,Americas,Latin America and the Caribbean,9904608,2016,Americas,15.1,19.4,24.1,47,51.9,56.8,1.5,2.9,4.8
+Croatia,HRV,Europe,Southern Europe,4047200,2016,Europe,22.4,27.1,32.1,59.9,64.3,68.8,0.4,0.9,1.7
+Haiti,HTI,Americas,Latin America and the Caribbean,11402533,2016,Americas,16,20.5,25.6,45.9,51.1,56.1,2.5,4.6,7.7
+Hungary,HUN,Europe,Eastern Europe,9749763,2016,Europe,23.5,28.6,34,60.8,65.4,70.1,0.6,1.4,2.8
+Indonesia,IDN,Asia,South-eastern Asia,273523621,2016,South-East Asia,5.1,6.9,9.1,24.4,28.3,32.3,8.9,12.4,16.3
+India,IND,Asia,Southern Asia,1380004385,2016,South-East Asia,2.9,3.8,4.9,16.5,19.3,22.3,19.7,23.3,27.3
+Ireland,IRL,Europe,Northern Europe,4994724,2016,Europe,22.3,26.9,31.7,59.2,63.6,67.7,0.4,0.8,1.4
+Iran,IRN,Asia,Southern Asia,83992953,2016,Eastern Mediterranean,22.2,25.5,28.9,57.2,60.9,64.6,2.7,3.7,5
+Iraq,IRQ,Asia,Western Asia,40222503,2016,Eastern Mediterranean,22.7,27.4,32.4,55.4,59.8,64.2,1.5,2.7,4.3
+Iceland,ISL,Europe,Northern Europe,366425,2016,Europe,19.1,23.1,27.4,57.3,61.5,65.5,0.5,1.1,1.8
+Israel,ISR,Asia,Western Asia,9216900,2016,Europe,21.9,26.7,31.6,60.8,65.3,69.6,0.4,0.9,1.7
+Italy,ITA,Europe,Southern Europe,59554023,2016,Europe,19.3,22.9,26.8,60.1,64.1,68.2,0.5,0.8,1.3
+Jamaica,JAM,Americas,Latin America and the Caribbean,2961161,2016,Americas,19.9,24.4,29.2,50,55,59.9,2.4,4.1,6.4
+Jordan,JOR,Asia,Western Asia,10203140,2016,Eastern Mediterranean,29,33.4,37.9,62.7,66.5,70.3,0.8,1.4,2.2
+Japan,JPN,Asia,Eastern Asia,125836021,2016,Western Pacific,3.3,4.4,5.7,26,29.4,32.8,5.1,7,9.4
+Kazakhstan,KAZ,Asia,Central Asia,18754440,2016,Europe,17.1,21.3,25.7,49.2,53.9,58.8,1.6,2.8,4.4
+Kenya,KEN,Africa,Sub-Saharan Africa,53771300,2016,Africa,4.3,6,8.2,18.9,22.6,26.4,7.8,11.9,16.7
+Kyrgyzstan,KGZ,Asia,Central Asia,6591600,2016,Europe,11.5,15.4,19.9,40.3,45.8,51.2,1.8,3.4,5.6
+Cambodia,KHM,Asia,South-eastern Asia,16718971,2016,Western Pacific,2.3,3.5,5.1,16.7,20.3,24.2,9,13.6,18.9
+Kiribati,KIR,Oceania,Micronesia,119446,2016,Western Pacific,39.4,45.6,51.6,73.9,78,81.9,0.3,0.8,1.6
+South Korea,KOR,Asia,Eastern Asia,51780579,2016,Western Pacific,3.8,4.9,6.2,29,32.1,35.4,2.9,3.9,5.2
+Kuwait,KWT,Asia,Western Asia,4270563,2016,Eastern Mediterranean,32.2,37,42,68.1,72.1,76,0.6,1,1.6
+Laos,LAO,Asia,South-eastern Asia,7275556,2016,Western Pacific,3,4.5,6.4,18.9,22.6,26.6,7.6,11.6,16.2
+Lebanon,LBN,Asia,Western Asia,6825442,2016,Eastern Mediterranean,26.2,31.3,36.6,62.5,66.9,71,1,2,3.4
+Liberia,LBR,Africa,Sub-Saharan Africa,5057677,2016,Africa,6.2,8.6,11.4,24,27.8,32.1,5.3,8.6,12.6
+Libya,LBY,Africa,Northern Africa,6871287,2016,Eastern Mediterranean,26.5,31.8,37.4,61.1,65.7,69.9,1,2,3.5
+Saint Lucia,LCA,Americas,Latin America and the Caribbean,183629,2016,Americas,14.9,19.8,25.1,42.5,48.3,54.4,2.3,4.5,7.4
+Sri Lanka,LKA,Asia,Southern Asia,21919000,2016,South-East Asia,3.7,5.4,7.7,20.2,24.2,28.3,9.6,13.9,18.8
+Lesotho,LSO,Africa,Sub-Saharan Africa,2142252,2016,Africa,10.3,13.5,16.9,28.9,33.2,37.7,5.5,8.6,12.3
+Lithuania,LTU,Europe,Northern Europe,2794700,2016,Europe,23.2,28.4,33.8,57.8,62.9,67.6,0.4,0.8,1.6
+Luxembourg,LUX,Europe,Western Europe,632275,2016,Europe,19.4,24.2,29.4,57.2,61.7,66.2,0.4,1.1,2.2
+Latvia,LVA,Europe,Northern Europe,1901548,2016,Europe,19.9,25.7,31.7,56.3,61.7,66.8,0.5,1.3,2.6
+Morocco,MAR,Africa,Northern Africa,36910558,2016,Eastern Mediterranean,20.7,25.6,30.9,54.6,59.5,64.1,1.7,3.2,5.3
+Moldova,MDA,Europe,Eastern Europe,2620495,2016,Europe,15.1,20.1,25.5,48.7,54.1,59.8,0.8,1.7,3.2
+Madagascar,MDG,Africa,Sub-Saharan Africa,27691019,2016,Africa,2.9,4.5,6.4,17.3,21.1,25.1,9.8,14.6,20
+Maldives,MDV,Asia,Southern Asia,540542,2016,South-East Asia,5.5,7.9,10.8,24.4,28.5,33.2,5.9,9.4,13.9
+Mexico,MEX,Americas,Latin America and the Caribbean,128932753,2016,Americas,24.7,28.4,32.3,60.3,64.1,67.8,0.9,1.4,2.1
+Marshall Islands,MHL,Oceania,Micronesia,59194,2016,Western Pacific,46.2,52.4,58.6,79.1,82.7,86,0.2,0.5,1
+Macedonia,MKD,Europe,Southern Europe,2072531,2016,Europe,18.4,23.9,29.6,55.8,60.9,65.8,0.5,1.3,2.8
+Mali,MLI,Africa,Sub-Saharan Africa,20250834,2016,Africa,5.1,7.1,9.6,20.6,24.4,28.5,6.8,10.7,15.1
+Malta,MLT,Europe,Southern Europe,525285,2016,Europe,25.1,31,37,65.3,70,74.3,0.3,0.7,1.6
+Myanmar,MMR,Asia,South-eastern Asia,54409794,2016,South-East Asia,4,5.7,7.8,20.8,24.6,28.6,10.1,14.2,19
+Montenegro,MNE,Europe,Southern Europe,621306,2016,Europe,19.2,24.9,30.7,57.3,62.3,67.1,0.5,1.3,2.9
+Mongolia,MNG,Asia,Eastern Asia,3278292,2016,Western Pacific,15.6,19.6,23.9,49,53.9,58.7,1.4,2.4,3.9
+Mozambique,MOZ,Africa,Sub-Saharan Africa,31255435,2016,Africa,4.1,6,8.2,19.4,23.1,27,7.6,11.5,16
+Mauritania,MRT,Africa,Sub-Saharan Africa,4649660,2016,Africa,8.3,11.3,14.9,26.9,31.5,36.4,5.4,9,13.7
+Mauritius,MUS,Africa,Sub-Saharan Africa,1265740,2016,Africa,8.4,11.5,15.2,29,33.8,38.9,4.7,7.8,11.8
+Malawi,MWI,Africa,Sub-Saharan Africa,19129955,2016,Africa,3.2,4.7,6.5,16.6,20.1,23.8,7.1,11.3,16.1
+Malaysia,MYS,Asia,South-eastern Asia,32365998,2016,Western Pacific,12.3,15.3,18.7,37.3,41.7,46.2,4.7,6.6,9.1
+Namibia,NAM,Africa,Sub-Saharan Africa,2540916,2016,Africa,11.5,15,18.7,32,36.6,41.4,6.6,10.1,14.4
+Niger,NER,Africa,Sub-Saharan Africa,24206636,2016,Africa,3.2,4.7,6.7,16.1,19.7,23.7,8.8,13.4,18.7
+Nigeria,NGA,Africa,Sub-Saharan Africa,206139587,2016,Africa,5.9,7.8,9.9,22.5,26,29.9,7.6,10.5,14
+Nicaragua,NIC,Americas,Latin America and the Caribbean,6624554,2016,Americas,17.3,21.8,26.7,50,54.8,59.5,1.3,2.5,4.3
+Netherlands,NLD,Europe,Western Europe,17441139,2016,Europe,19.3,23.1,27,58.6,62.6,66.4,0.5,0.9,1.5
+Norway,NOR,Europe,Northern Europe,5379475,2016,Europe,20.9,25,29.2,57.6,61.7,65.6,0.6,1,1.7
+Nepal,NPL,Asia,Southern Asia,29136808,2016,South-East Asia,2.6,3.8,5.2,16.3,19.6,23.3,12.7,16.8,21.2
+New Zealand,NZL,Oceania,Australia and New Zealand,5084300,2016,Western Pacific,28.4,32,35.6,64.7,68,71.1,0.6,1,1.5
+Oman,OMN,Asia,Western Asia,5106622,2016,Eastern Mediterranean,18.3,22.9,27.9,50.9,56,61.3,2.4,4,6.2
+Pakistan,PAK,Asia,Southern Asia,220892331,2016,Eastern Mediterranean,5.7,7.8,10.3,22.1,26.2,30.7,11,15,19.8
+Panama,PAN,Americas,Latin America and the Caribbean,4314768,2016,Americas,18,22.5,27.4,53.6,58.5,63.1,1.3,2.3,3.8
+Peru,PER,Americas,Latin America and the Caribbean,32971846,2016,Americas,16,19.1,22.4,52,56.3,60.4,0.9,1.3,1.9
+Philippines,PHL,Asia,South-eastern Asia,109581085,2016,Western Pacific,4.3,6,8.1,22.2,26.1,30.3,8.5,12.3,16.6
+Papua New Guinea,PNG,Oceania,Melanesia,8947027,2016,Western Pacific,14,19.4,25.3,43.1,49.3,55.6,1.2,2.6,4.7
+Poland,POL,Europe,Eastern Europe,37950802,2016,Europe,21.9,25.6,29.5,58.4,62.4,66.4,0.8,1.3,2
+North Korea,PRK,Asia,Eastern Asia,25778815,2016,South-East Asia,4.2,7.1,10.6,28,33.5,38.8,2.9,6.4,11.9
+Portugal,PRT,Europe,Southern Europe,10305564,2016,Europe,18.8,23.2,27.8,57.6,62.3,66.8,0.5,0.9,1.7
+Paraguay,PRY,Americas,Latin America and the Caribbean,7132530,2016,Americas,13.9,19,24.6,45.2,50.9,56.5,0.9,2.1,4.1
+Palestine,PSE,Asia,Western Asia,4803269,999,999,999,999,999,999,999,999,999,999,999
+Qatar,QAT,Asia,Western Asia,2881060,2016,Eastern Mediterranean,27.7,33.9,40.5,65.2,70.3,75.3,0.6,1.3,2.3
+Romania,ROU,Europe,Eastern Europe,19286123,2016,Europe,20,24.5,29.3,56.9,61.4,65.8,0.7,1.3,2.3
+Russia,RUS,Europe,Eastern Europe,144104080,2016,Europe,21.7,25.7,30.1,56.5,61.1,65.6,0.8,1.4,2.2
+Rwanda,RWA,Africa,Sub-Saharan Africa,12952209,2016,Africa,3.2,4.8,6.7,18.4,22,25.8,6.4,9.7,13.6
+Saudi Arabia,SAU,Asia,Western Asia,34813867,2016,Eastern Mediterranean,30.5,35,39.5,65.2,69,72.9,1.2,2,2.9
+Sudan,SDN,Africa,Northern Africa,43849269,2016,Eastern Mediterranean,4.9,7.4,10.5,21.6,25.7,30.2,5.8,10,15.1
+Senegal,SEN,Africa,Sub-Saharan Africa,16743930,2016,Africa,5.2,7.4,9.9,21.1,24.9,28.9,7.9,12,16.8
+Singapore,SGP,Asia,South-eastern Asia,5685807,2016,Western Pacific,4.6,6.6,9,29.3,33.6,37.8,3.8,5.9,8.6
+Solomon Islands,SLB,Oceania,Melanesia,686878,2016,Western Pacific,15.8,20.5,25.7,45.7,51.3,57.1,1,1.9,3.2
+Sierra Leone,SLE,Africa,Sub-Saharan Africa,7976985,2016,Africa,5.3,7.5,10.1,21.1,24.9,29,6.7,10.4,14.7
+El Salvador,SLV,Americas,Latin America and the Caribbean,6486201,2016,Americas,18,22.7,27.7,52,56.8,61.5,1.1,2.2,3.8
+Somalia,SOM,Africa,Sub-Saharan Africa,15893219,2016,Eastern Mediterranean,4.5,6.9,9.8,20.4,24.7,29.3,6.5,11.2,17.2
+South Sudan,SSD,Africa,Sub-Saharan Africa,11193729,999,999,999,999,999,999,999,999,999,999,999
+Serbia,SRB,Europe,Southern Europe,6908224,2016,Europe,19.1,23.5,28.1,55.9,60.7,65,0.8,1.5,2.6
+Sao Tome and Principe,STP,Africa,Sub-Saharan Africa,219161,2016,Africa,7.7,10.6,14.1,27,31.6,36.4,4.5,7.7,11.8
+Suriname,SUR,Americas,Latin America and the Caribbean,586634,2016,Americas,21.3,26.5,31.9,54,59,64,1.7,3.3,5.5
+Slovakia,SVK,Europe,Eastern Europe,5458827,2016,Europe,17.9,22.4,27.3,54.9,59.7,64.4,0.7,1.4,2.5
+Slovenia,SVN,Europe,Southern Europe,2100126,2016,Europe,17.2,22.5,28.2,55.4,60.7,65.7,0.5,1.4,3.1
+Sweden,SWE,Europe,Northern Europe,10353442,2016,Europe,18.3,22.1,26,55.8,59.9,64,0.6,1.1,1.9
+Swaziland,SWZ,Africa,Sub-Saharan Africa,1160164,2016,Africa,10,13.5,17.5,28.4,33,37.8,4.8,8.1,12.2
+Seychelles,SYC,Africa,Sub-Saharan Africa,98462,2016,Africa,11,14.6,18.6,33,38.1,43.4,3.5,6.1,9.6
+Syria,SYR,Asia,Western Asia,17500657,2016,Eastern Mediterranean,20.7,25.8,31.3,53,57.9,62.8,1.5,2.9,5
+Chad,TCD,Africa,Sub-Saharan Africa,16425859,2016,Africa,3.3,4.8,6.8,16,19.5,23.4,9.2,13.7,19.1
+Togo,TGO,Africa,Sub-Saharan Africa,8278737,2016,Africa,4.9,7.1,9.7,21.1,25,29.1,6.3,9.9,14.5
+Thailand,THA,Asia,South-eastern Asia,69799978,2016,South-East Asia,8,10.8,14,30.2,34.7,39.4,5.3,8.3,12
+Tajikistan,TJK,Asia,Central Asia,9537642,2016,Europe,9.2,12.6,16.6,36.5,41.7,47.2,2.4,4.3,6.9
+Turkmenistan,TKM,Asia,Central Asia,6031187,2016,Europe,13.3,17.5,22.3,44.4,49.6,54.7,1.6,3.1,5.3
+Timor-Leste,TLS,Asia,South-eastern Asia,1318442,2016,South-East Asia,1.9,2.9,4.4,14.6,17.9,21.4,12.1,16.9,22.2
+Tonga,TON,Oceania,Polynesia,105697,2016,Western Pacific,39.7,45.9,51.9,71.2,75.6,79.7,0.1,0.4,0.7
+Trinidad and Tobago,TTO,Americas,Latin America and the Caribbean,1399491,2016,Americas,14.5,19.7,25.7,41.6,48.1,54.7,1.6,3.5,6.6
+Tunisia,TUN,Africa,Northern Africa,11818618,2016,Eastern Mediterranean,22.4,27.3,32.1,57.7,62.2,66.6,1.7,3.1,5
+Turkey,TUR,Asia,Western Asia,84339067,2016,Europe,28.4,32.2,36.1,63.4,66.9,70.4,0.9,1.4,2.1
+Taiwan,TWN,Asia,Eastern Asia,23816775,999,Western Pacific,999,999,999,999,999,999,999,999,999
+Tanzania,TZA,Africa,Sub-Saharan Africa,59734213,2016,Africa,5.3,7.1,9.4,20.9,24.5,28.3,7.8,11.3,15.2
+Uganda,UGA,Africa,Sub-Saharan Africa,45741000,2016,Africa,2.8,4.1,5.8,15.6,19,22.5,7.9,11.4,15.4
+Ukraine,UKR,Europe,Eastern Europe,44134693,2016,Europe,20.2,26.1,32.3,56.4,61.9,67.4,0.4,1.2,2.8
+Uruguay,URY,Americas,Latin America and the Caribbean,3473727,2016,Americas,23.7,28.9,34.4,59.8,64.5,69.2,0.5,1,1.8
+United States,USA,Americas,Northern America,329484123,2016,Americas,33.4,37.3,41.3,66.8,70.2,73.3,0.7,1.1,1.7
+Uzbekistan,UZB,Asia,Central Asia,34232050,2016,Europe,11.5,15.3,19.8,40.5,45.7,51,1.9,3.4,5.7
+Saint Vincent and the Grenadines,VCT,Americas,Latin America and the Caribbean,110947,2016,Americas,18.4,23.8,29.8,49.5,55,60.5,1.6,3.6,6.6
+Venezuela,VEN,Americas,Latin America and the Caribbean,28435943,2016,Americas,20.9,25.2,29.8,58.4,62.6,66.9,0.8,1.5,2.4
+Vietnam,VNM,Asia,South-eastern Asia,97338583,2016,Western Pacific,1.4,2.1,3.1,14.7,18.3,21.7,13.4,17.5,21.7
+Vanuatu,VUT,Oceania,Melanesia,307150,2016,Western Pacific,18.2,23.5,29.1,48,54.1,60.1,1.1,2.2,3.7
+Samoa,WSM,Oceania,Polynesia,198410,2016,Western Pacific,39.8,45.5,51.5,70.8,75.1,79.3,0.1,0.4,0.7
+Yemen,YEM,Asia,Western Asia,29825968,2016,Eastern Mediterranean,10.8,14.1,17.8,37.5,42.3,47.3,5,7.7,11
+South Africa,ZAF,Africa,Sub-Saharan Africa,59308690,2016,Africa,23.4,27,30.8,47.9,51.9,56,3.4,4.8,6.6
+Zambia,ZMB,Africa,Sub-Saharan Africa,18383956,2016,Africa,4.6,6.5,8.8,20.2,23.9,27.9,7.5,11.5,16.2
+Zimbabwe,ZWE,Africa,Sub-Saharan Africa,14862927,2016,Africa,9.4,12.3,15.6,28.2,32.4,36.8,5.6,8.6,12
