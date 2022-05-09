@@ -39,11 +39,9 @@
     text-decoration: underline
     transition: color .4s ease-out
 
-
   a:visited
       color: #222
       text-decoration: underline
-
 
   a:hover
     color: #111 !important
@@ -109,7 +107,8 @@
 
         <v-window-item :key="0">
           <v-card flat>
-            <v-row class="text-center mb-12 mt-10">
+            <!-- <v-row class="text-center mb-12 mt-10"> -->
+            <v-row class="text-center mt-10">
               <v-col cols="12">
                 <h2 class="text-h5 font-weight-light mb-6">
                   <strong>Milk Consumption</strong> (gramps per day) per Country

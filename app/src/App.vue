@@ -85,7 +85,7 @@ nav
   max-width: 1450px !important
   overflow-x: scoll
   width: 100%
-  margin-bottom: 100px
+  // margin-bottom: 100px
 </style>
 
 <template>
@@ -159,7 +159,9 @@ export default {
   },
   mounted() {
     // get the filters and preselected data on load of the application
-    this.$store.dispatch("getDataset");
+    // this.$store.dispatch("getDataset");
+    this.$store.dispatch("getCachedDataset");
+    this.$store.dispatch("wakeupDB");
     this.$store.dispatch("getHealthFilters");
     this.$store.dispatch("getNutritionFilters");
   },

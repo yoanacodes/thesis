@@ -20,3 +20,9 @@ Is Food Making You Sick? will answer questions such as do countries that have a 
 
 #### App Screenshot:
 ![](project_image.png)
+
+<br>
+
+**You can see the full process here**: [Is Foor Making You Sick?](https://yoanacodes.com/#/projects/thesis)
+
+![](thesis_process.png)

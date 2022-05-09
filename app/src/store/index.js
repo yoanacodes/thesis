@@ -62,6 +62,12 @@ export default new Vuex.Store({
     },
   },
   mutations: {
+    saveCachedData(state, payload) {
+      state.dataset = payload.dataset.data;
+      state.dataIsReady = payload.dataIsReady;
+      state.current_state.data_load_progress = 100;
+      // console.log("saving cached data... ");
+    },
     saveDataLoadProgress(state, payload) {
       state.current_state.data_load_progress = payload.data_load_progress;
     },
@@ -88,18 +94,28 @@ export default new Vuex.Store({
     },
   },
   actions: {
+    // on initial load get cached version of the data with the variables for story slides
+    // nutrient: milk, condition: rheumatoid arthritis
+    getCachedDataset({ commit, state }, payload) {
+      const cached_data = "data/data_cached.json";
+
+      return axios.get(cached_data).then((response) => {
+        // console.log("getting cached data... ");
+        commit("saveCachedData", { dataset: response.data, dataIsReady: true });
+      });
+    },
+    // do a simple test call to the DB to wake it up
+    // makes sure there are no delays when DB is called next
+    wakeupDB({ commit, state }, payload) {
+      const wakeup_api = "https://dvthesis.herokuapp.com/";
+      return axios.get(wakeup_api);
+      // .then((response) => {
+      //   console.log("DB connection established");
+      // });
+    },
     // make an API call when data is changed and on load of the application (with preset values)
     getDataset({ commit, state }, payload) {
-      const test_data = "data/data_cached.json";
       const api = "https://dvthesis.herokuapp.com/relationships?"; // "http://localhost:5000/relationships?";
-
-      // // cached data for one relationship
-      // return axios
-      //   .get(test_data)
-      //   .then(response => {
-      //     // console.log(response.data)
-      //     commit('saveData', {dataset: response.data, dataIsReady: true});
-      //   });
 
       // commit to store the progress of the API call - used to display progress circle while scatterplot is loading
       commit("saveDataLoadProgress", { data_load_progress: 0 });
@@ -117,13 +133,14 @@ export default new Vuex.Store({
           },
         })
         .then((response) => {
+          // console.log("getting API data");
           commit("saveData", { dataset: response.data, dataIsReady: true });
         })
         .catch(function (error) {
           console.log(error);
         });
     },
-    // get static JSON with filters for health data - label, value, parent
+    // gets static JSON with filters for health data - label, value, parent
     // initiates on load of the application
     // nests the data for display purposes
     getHealthFilters({ commit, dispatch }, payload) {
@@ -145,7 +162,7 @@ export default new Vuex.Store({
           console.log(error);
         });
     },
-    // get static JSON with filters for nutrition data - label, value, food gorup
+    // gets static JSON with filters for nutrition data - label, value, food gorup
     // initiates on load of the application
     // nests the data so each nutrient has their foog group as parent for display purposes
     getNutritionFilters({ commit, dispatch }, payload) {
