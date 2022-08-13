@@ -7,8 +7,9 @@ const morgan = require('morgan');
 const mcache = require('memory-cache');
 
 
-const PORT = process.env.PORT || 5000
-const cacheDuration = 1
+const PORT = process.env.PORT || 5000;
+// one week (in seconds)
+const cacheDuration = 604800;
 
 const app = express();
 
@@ -37,18 +38,8 @@ const cache = (duration) => {
 
 const corsOptions = {
   origin:  [
-  'http://thesis.yoanacodes.com/',
-  'https://thesis.yoanacodes.com/', 
-  'http://thesis.yoanacodes.com',
-  'https://thesis.yoanacodes.com',   
-  'thesis.yoanacodes.com/',
-  'https://(www.)thesis.yoanacodes.com',
-  'http://(www.)thesis.yoanacodes.com',  
-  'https://yoanacodes.com', 
-  'http://yoanacodes.com', 
-  'http://localhost:5000', 
+  'https://thesis.yoanacodes.com',
   'http://localhost:8080',
-  'http://localhost'
   ],
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204  
 }

@@ -155,7 +155,7 @@
                   disorder in which the body is attacking its own cells and
                   systems, primairly the joints.
                 </p>
-                <p class="shortIntro">
+                <!-- <p class="shortIntro">
                   Researchers are not in agreement about the effects of diet on
                   patients living with the condition.
                   <a
@@ -171,14 +171,14 @@
                     >others</a
                   >
                   refute such relationship exists.
-                </p>
+                </p> -->
                 <introSlidesViz variableToVisualize="disease" />
-                <p style="width: 210px; margin: 0 auto" class="mt-10">
+                <p style="width: 310px; margin: 0 auto" class="mt-10">
                   Now let's see if there is any relationship between milk
-                  consumption and Rheumatoid arthritis
+                  consumption and rheumatoid arthritis
                 </p>
                 <v-btn
-                  class="ma-2 mt-12"
+                  class="ma-2 mt-4"
                   outlined
                   color="blue-grey darken-2"
                   x-large
